@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pshenytska
 - 👀 I’m interested in Front-End Dev and UX Design
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, JS and PHP
 - 💞️ I’m looking to collaborate on non-profit and volunteer projects
 - 📫 How to reach me veronika.pshenytska@seattlecolleges.edu
 
